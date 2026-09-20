@@ -36,10 +36,10 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
       <br/><strong>Matrix Evreni</strong><br/><sub>🎬 Film &amp; Oyun</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea" width="260" alt="Fenerbahçe 1907-2027"/>
+      <a href="https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df" width="260" alt="Inception: Zihnin Mimarisi"/>
       </a>
-      <br/><strong>Fenerbahçe 1907-2027</strong><br/><sub>⚽ Spor</sub>
+      <br/><strong>Inception</strong><br/><sub>🎬 Film &amp; Oyun</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1">
@@ -56,10 +56,10 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
       <br/><strong>Roma İmparatorluğu</strong><br/><sub>📜 Tarih</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/3fac562ceddbd19ea2a78c2d839a647f56eaa20516500c95899dbabb305cc469/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/3fac562ceddbd19ea2a78c2d839a647f56eaa20516500c95899dbabb305cc469" width="260" alt="Yenidoğan İlk Yıl Rehberi"/>
+      <a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="260" alt="Dünya'nın Hareketleri ve İklim"/>
       </a>
-      <br/><strong>Yenidoğan İlk Yıl</strong><br/><sub>👶 Aile &amp; Sağlık</sub>
+      <br/><strong>Dünya ve İklim</strong><br/><sub>🌍 Coğrafya</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1">
@@ -73,13 +73,13 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 | Doküman | Ne gösteriyor | Kategori |
 |---|---|---|
 | [Matrix Evreni Rehberi](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Film zaman çizelgesi, karakter kartları, kırmızı hap / mavi hap karar diyagramı | 🎬 Film &amp; Oyun |
-| [Fenerbahçe 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1) | 120 yıllık kulüp tarihi, resimli, dönem dönem istatistiklerle | ⚽ Spor |
+| [Inception: Zihnin Mimarisi](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1) | Rüya katmanları, karakter ilişki haritası, zaman dilatasyonu grafiği | 🎬 Film &amp; Oyun |
 | [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Albüm kartları, hit satış grafiği, konser haritası, dönemlerin görsel kimliği | 🎵 Müzik |
 | [Roma İmparatorluğu](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Dönem dönem yükseliş ve çöküş, haritalar, zaman çizelgeleri | 📜 Tarih |
-| [Yenidoğan İlk Yıl Rehberi](https://app.tasvir.ai/c/3fac562ceddbd19ea2a78c2d839a647f56eaa20516500c95899dbabb305cc469/1) | Ay ay gelişim, beslenme ve uyku tabloları, kontrol listeleri | 👶 Aile &amp; Sağlık |
+| [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
 | [IELTS Sınav Hazırlık Rehberi](https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1) | Bölüm bölüm strateji, örnek görevler, puanlama kriterleri | 📐 Sınav |
 
-Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı, 🗣️ dil öğrenme, 🏃 fitness, 🎓 akademik tez ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
+Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı, 🏃 fitness, 🎓 akademik tez ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
 
 <details>
 <summary><b>📚 Örneklerin tamamı (kategoriye göre)</b></summary>
@@ -112,18 +112,12 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 - [Dinozorlar Dünyasında Bir Gün](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1)
 - [Alfabe Öğrenme Kitabı](https://app.tasvir.ai/c/ee763b495a5646b323e5663aa6049e5ede20ec85cf9238a581c0ee434c6fdfd8/1)
 - [Uzayda Bir Gün](https://app.tasvir.ai/c/cf963268f50ea352e5c975a5d4e8c3f99bc3e00f251a811a8c09f77d35c73063/1)
-- [Yenidoğan İlk Yıl Rehberi](https://app.tasvir.ai/c/3fac562ceddbd19ea2a78c2d839a647f56eaa20516500c95899dbabb305cc469/1)
-
-**🗣️ Dil Öğrenme**
-- [30 Günde Temel İngilizce (Hızlı)](https://app.tasvir.ai/c/74614f012994ea1ffc599656e4c3bd6599e8342502950d14f43eff0706601ea7/1)
-- [30 Günde Temel İngilizce (PRO)](https://app.tasvir.ai/c/65b5f379e2771aecb7e4b1bad160f33e795e34a069b24fccc84268d210a0f5b1/1)
 
 **🏃 Sağlık & Fitness**
 - [14 Günlük Evde Antrenman Planı](https://app.tasvir.ai/c/c08afee45d6e075289664bfca30bac7a176e13a3517883f4e4d9c008b56a3bca/1)
 
 **⚽ Spor & Müzik**
 - [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
-- [Fenerbahçe 1907-2027](https://app.tasvir.ai/c/22dc1a53cc920611166b889080f517e8106e641f5782e811d1c203ec1c19ebea/1)
 - [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
 
 **🎓 Akademik**
