@@ -50,10 +50,10 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce" width="260" alt="Roma İmparatorluğu"/>
+      <a href="https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9" width="260" alt="İlk Çağ Medeniyetleri"/>
       </a>
-      <br/><strong>Roma İmparatorluğu</strong><br/><sub>📜 Tarih</sub>
+      <br/><strong>İlk Çağ Medeniyetleri</strong><br/><sub>📜 Tarih</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1">
@@ -75,7 +75,7 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 | [Matrix Evreni Rehberi](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Film zaman çizelgesi, karakter kartları, kırmızı hap / mavi hap karar diyagramı | 🎬 Film &amp; Oyun |
 | [Inception: Zihnin Mimarisi](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1) | Rüya katmanları, karakter ilişki haritası, zaman dilatasyonu grafiği | 🎬 Film &amp; Oyun |
 | [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Albüm kartları, hit satış grafiği, konser haritası, dönemlerin görsel kimliği | 🎵 Müzik |
-| [Roma İmparatorluğu](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Dönem dönem yükseliş ve çöküş, haritalar, zaman çizelgeleri | 📜 Tarih |
+| [İlk Çağ Medeniyetleri](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1) | Medeniyetler strateji oyunu uygarlıkları gibi | 📜 Tarih |
 | [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
 | [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1) | Anlık hız ve nabız değişimi üzerinden türev | 📐 Matematik |
 
@@ -92,7 +92,7 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 - [Half-Life: Evren ve Hikâye](https://app.tasvir.ai/c/20b80d4849f42fd45c29e21428f94080b5682585f0eb7bd17ecfadb1b370dabb/1)
 
 **📜 Tarih**
-- [Roma İmparatorluğu](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1)
+- [İlk Çağ Medeniyetleri](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1)
 - [Türkiye Cumhuriyeti'nin 100. Yılı](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1)
 - [Osmanlı Kuruluş ve Yükselme](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1)
 
