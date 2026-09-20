@@ -62,10 +62,10 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
       <br/><strong>Dünya ve İklim</strong><br/><sub>🌍 Coğrafya</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901" width="260" alt="IELTS Sınav Hazırlık Rehberi"/>
+      <a href="https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4" width="260" alt="Galatasaray 1905-2025"/>
       </a>
-      <br/><strong>IELTS Hazırlık</strong><br/><sub>📐 Sınav</sub>
+      <br/><strong>Galatasaray 1905-2025</strong><br/><sub>⚽ Spor</sub>
     </td>
   </tr>
 </table>
@@ -77,7 +77,7 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 | [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Albüm kartları, hit satış grafiği, konser haritası, dönemlerin görsel kimliği | 🎵 Müzik |
 | [Roma İmparatorluğu](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Dönem dönem yükseliş ve çöküş, haritalar, zaman çizelgeleri | 📜 Tarih |
 | [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
-| [IELTS Sınav Hazırlık Rehberi](https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1) | Bölüm bölüm strateji, örnek görevler, puanlama kriterleri | 📐 Sınav |
+| [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1) | Şampiyonluk zaman çizelgesi, efsane futbolcular, UEFA 2000 finali | ⚽ Spor |
 
 Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı, 🏃 fitness, 🎓 akademik tez ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
 
@@ -102,10 +102,9 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 - [Kara Delikler ve Hawking Işıması](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1)
 - [Makine Öğrenmesi ve Gradyan İnişi](https://app.tasvir.ai/c/98d7a0bb1e485e88429c979ccd375a11e4cdf78ed7975694dc3f2bc91e198a47/1)
 
-**📐 Matematik & Sınav**
+**📐 Matematik**
 - [Parabol — İleri Matematik](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1)
 - [Analitik Geometri: Doğrular ve Çemberler](https://app.tasvir.ai/c/8ad2afeb54293022f2aad161e4c16257a853ad2d0acc598f990fea3957ed8f4e/1)
-- [IELTS Sınav Hazırlık Rehberi](https://app.tasvir.ai/c/c8799822e2f6702502072cdb49cbd275c9241f26104ca9ed532852067ce11901/1)
 
 **🧒 Çocuk & Aile**
 - [İnsan Vücudu Atlası](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1)
