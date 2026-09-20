@@ -62,10 +62,10 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
       <br/><strong>Dünya ve İklim</strong><br/><sub>🌍 Coğrafya</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1">
-        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4" width="260" alt="Galatasaray 1905-2025"/>
+      <a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1">
+        <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="260" alt="AYT Matematik Türev"/>
       </a>
-      <br/><strong>Galatasaray 1905-2025</strong><br/><sub>⚽ Spor</sub>
+      <br/><strong>Türev</strong><br/><sub>📐 Matematik</sub>
     </td>
   </tr>
 </table>
@@ -77,9 +77,9 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 | [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Albüm kartları, hit satış grafiği, konser haritası, dönemlerin görsel kimliği | 🎵 Müzik |
 | [Roma İmparatorluğu](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1) | Dönem dönem yükseliş ve çöküş, haritalar, zaman çizelgeleri | 📜 Tarih |
 | [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
-| [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1) | Şampiyonluk zaman çizelgesi, efsane futbolcular, UEFA 2000 finali | ⚽ Spor |
+| [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1) | Anlık hız ve nabız değişimi üzerinden türev | 📐 Matematik |
 
-Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı, 🏃 fitness ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
+Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
 
 <details>
 <summary><b>📚 Örneklerin tamamı (kategoriye göre)</b></summary>
@@ -101,11 +101,12 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 
 **🔬 Bilim & Teknik**
 - [Kara Delikler ve Hawking Işıması](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1)
-- [Hareket ve Kuvvet](https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1)
+- [Kalıtım](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1)
 
 **📐 Matematik**
-- [Parabol — İleri Matematik](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1)
-- [Analitik Geometri: Doğrular ve Çemberler](https://app.tasvir.ai/c/8ad2afeb54293022f2aad161e4c16257a853ad2d0acc598f990fea3957ed8f4e/1)
+- [Parabol](https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1)
+- [Analitik Geometri](https://app.tasvir.ai/c/0006f3d6fb06b6d213d4ffc71c37b604e419303c99cbbdf08ce87bdab818a793/1)
+- [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1)
 
 **🧒 Çocuk & Aile**
 - [İnsan Vücudu Atlası](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1)
@@ -113,16 +114,14 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 - [Alfabe Öğrenme Kitabı](https://app.tasvir.ai/c/ee763b495a5646b323e5663aa6049e5ede20ec85cf9238a581c0ee434c6fdfd8/1)
 - [Uzayda Bir Gün](https://app.tasvir.ai/c/cf963268f50ea352e5c975a5d4e8c3f99bc3e00f251a811a8c09f77d35c73063/1)
 
-**🏃 Sağlık & Fitness**
-- [14 Günlük Evde Antrenman Planı](https://app.tasvir.ai/c/c08afee45d6e075289664bfca30bac7a176e13a3517883f4e4d9c008b56a3bca/1)
+**🧬 Biyoloji**
+- [Hücre Bölünmeleri](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1)
 
-**⚽ Spor & Müzik**
-- [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
+**🎵 Müzik**
 - [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
 
 **🌐 Web / Uygulama Tasarımı**
 - [Online Kurs Platformu (10 ekran)](https://app.tasvir.ai/c/85c38000d0162f60352df723e91271ae4d5bab60e2c1c996a5c2def1c29e0940/1)
-- [Instagram Sayfa Tasarımı (6 ekran)](https://app.tasvir.ai/c/86e896cea7d5182da26f504b1a2fd60a4f35cc6f357676ef669a4f832d49c9e0/1)
 
 </details>
 
