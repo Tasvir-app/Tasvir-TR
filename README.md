@@ -10,7 +10,7 @@
 
 </div>
 
-Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görselli bir doküman yazsın — çalışma rehberi, ders kitabı, akademik rapor, dergi, çocuk kitabı. Planlayıcı ajan tek kelime yazılmadan *önce* hedef kitleyi, sayfa akışını, temayı ve görselleri belirler; sohbet ekranındaki metin yığını yerine görsel, tablo, grafik ve diyagram içeren, 200 sayfaya kadar sayfalanmış bir doküman alırsın. Kayıt olan her hesaba bir kez 300 kredi (yaklaşık beş sayfa) tanımlanıyor ve istemini hangi dilde yazarsan doküman o dilde geliyor.
+Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görselli bir doküman yazsın — çalışma rehberi, ders kitabı, akademik rapor, dergi, çocuk kitabı. Planlayıcı ajan tek kelime yazılmadan *önce* hedef kitleyi, sayfa akışını, temayı ve görselleri belirler; sohbet ekranındaki metin yığını yerine görsel, tablo, grafik ve diyagram içeren, 200 sayfaya kadar sayfalanmış bir doküman alırsın. Kayıt olan her hesaba bir kez hediye kredi tanımlanıyor — ilk dokümanını baştan sona üretmeye yeter — ve istemini hangi dilde yazarsan doküman o dilde geliyor.
 
 <div align="center">
 <br/>
