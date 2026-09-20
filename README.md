@@ -79,7 +79,7 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 | [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
 | [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1) | Şampiyonluk zaman çizelgesi, efsane futbolcular, UEFA 2000 finali | ⚽ Spor |
 
-Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı, 🏃 fitness, 🎓 akademik tez ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
+Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı, 🏃 fitness ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
 
 <details>
 <summary><b>📚 Örneklerin tamamı (kategoriye göre)</b></summary>
@@ -94,13 +94,14 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 **📜 Tarih**
 - [Roma İmparatorluğu](https://app.tasvir.ai/c/bc2e862449bacbeefdc250f590d9bc6c0d612b68bf33e8e78bac5c9044ac73ce/1)
 - [Türkiye Cumhuriyeti'nin 100. Yılı](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1)
+- [Osmanlı Kuruluş ve Yükselme](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1)
 
 **🗺️ Gezi**
 - [7 Günde İstanbul Keşif Rehberi](https://app.tasvir.ai/c/3a676c1e7b96ba81b9e9d483c2249870c583a6322c4b72a5b46fac1a7c563eb5/1)
 
 **🔬 Bilim & Teknik**
 - [Kara Delikler ve Hawking Işıması](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1)
-- [Makine Öğrenmesi ve Gradyan İnişi](https://app.tasvir.ai/c/98d7a0bb1e485e88429c979ccd375a11e4cdf78ed7975694dc3f2bc91e198a47/1)
+- [Hareket ve Kuvvet](https://app.tasvir.ai/c/3302b830f081856c88d20d1955d9d64fffa8d7bdabb8532ee160ef0f5d1925a4/1)
 
 **📐 Matematik**
 - [Parabol — İleri Matematik](https://app.tasvir.ai/c/80e8a3a815053662f0ecd37fb88af64a043f6d00360be4b11f7da3e39b650b03/1)
@@ -118,9 +119,6 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 **⚽ Spor & Müzik**
 - [Galatasaray 1905-2025](https://app.tasvir.ai/c/177ad48bd607ca212214bbc00b9fee659d117c3ae7f0e89e47994bc1ea9a39f4/1)
 - [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
-
-**🎓 Akademik**
-- [Türkiye'nin Yenilenebilir Enerji Politikaları (tez taslağı)](https://app.tasvir.ai/c/52331f0b92d37cfad712ed70fa8da8c4056af417127161daa22fbbba25f6e2a7/1)
 
 **🌐 Web / Uygulama Tasarımı**
 - [Online Kurs Platformu (10 ekran)](https://app.tasvir.ai/c/85c38000d0162f60352df723e91271ae4d5bab60e2c1c996a5c2def1c29e0940/1)
