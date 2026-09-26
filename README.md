@@ -8,6 +8,8 @@
 [![90 saniyelik demoyu izle](https://img.shields.io/badge/▶_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![Web sitesi](https://img.shields.io/badge/tasvir.ai/tr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
 
+**🏠 Tasvir uygulaması** · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
+
 </div>
 
 Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görselli bir doküman yazsın — çalışma rehberi, ders kitabı, akademik rapor, dergi, çocuk kitabı. Planlayıcı ajan tek kelime yazılmadan *önce* hedef kitleyi, sayfa akışını, temayı ve görselleri belirler; sohbet ekranındaki metin yığını yerine görsel, tablo, grafik ve diyagram içeren, 200 sayfaya kadar sayfalanmış bir doküman alırsın. Kayıt olan her hesaba bir kez hediye kredi tanımlanıyor — ilk dokümanını baştan sona üretmeye yeter — ve istemini hangi dilde yazarsan doküman o dilde geliyor.
