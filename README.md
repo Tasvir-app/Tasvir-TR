@@ -241,7 +241,7 @@ Sana uyan yoldan bir doküman oluştur:
 | **Girişimciler & ekipler** | Raporlar, lansman planları, şirket içi dokümanlar, panolar |
 | **Herkes** | Herhangi bir konuyu yapılandırılmış bir dokümana çevir — tasarım bilgisi gerekmez |
 
-Okul, dershane ya da ekip mi yönetiyorsun? **[Kurum hesabı →](https://tasvir.ai/tr/kurumlar/)** — toplu kredi, Excel ile üye aktarımı, roller.
+Okul, dershane ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=institutions)** — toplu kredi, Excel ile üye aktarımı, roller. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/).
 
 ---
 
