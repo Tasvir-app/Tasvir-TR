@@ -8,7 +8,7 @@
 [![90 saniyelik demoyu izle](https://img.shields.io/badge/▶_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![Web sitesi](https://img.shields.io/badge/tasvir.ai/tr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
 
-**🏠 Tasvir uygulaması** · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
+**🏠 Tasvir uygulaması** · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
 
 </div>
 
@@ -124,8 +124,17 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 
 **🌐 Web / Uygulama Tasarımı**
 - [Online Kurs Platformu (10 ekran)](https://app.tasvir.ai/c/85c38000d0162f60352df723e91271ae4d5bab60e2c1c996a5c2def1c29e0940/1)
+- [Canlı Yayın Platformu Arayüzü (25 ekran)](https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1)
 
 </details>
+
+### Web tasarımı → Figma
+
+Bir web sitesini anlat, Tasvir her ekranı 1440 piksel genişlikte tasarlasın. **Yayınla → Figma için kopyala** deyip Figma'da Ctrl+V yap: ekran düzenlenebilir vektör katmanlar olarak gelir.
+
+<p align="center"><a href="https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma"><img src="https://raw.githubusercontent.com/Tasvir-app/Tasvir-Web-Designs-to-Figma/main/assets/figma-paste.webp" width="560" alt="Figma'ya yapıştırılmış bir Tasvir web tasarımı"/></a></p>
+
+Dört kısa mesajdan çıkan 25 ekranlık canlı yayın platformu ve istemi: **[Tasvir-Web-Designs-to-Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma)** (İngilizce).
 
 ---
 
