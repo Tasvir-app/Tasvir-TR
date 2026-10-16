@@ -4,9 +4,9 @@
 
 ### Yapay zekâ ile çalışma notu, kitap ve doküman üretici — bir PDF'i ya da tek bir konu cümlesini 200 sayfaya kadar görselli, yazdırılabilir bir dokümana çevirir.
 
-[![Tasvir'i ücretsiz dene](https://img.shields.io/badge/🚀_Tasvir'i_ücretsiz_dene-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=top&lang=tr)
+[![Tasvir'i ücretsiz dene](https://img.shields.io/badge/🚀_Tasvir'i_ücretsiz_dene-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=top&lang=tr&utm_campaign=tasvir-tr)
 [![90 saniyelik demoyu izle](https://img.shields.io/badge/▶_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
-[![Web sitesi](https://img.shields.io/badge/tasvir.ai/tr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/)
+[![Web sitesi](https://img.shields.io/badge/tasvir.ai/tr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=yapay-zeka-ile-calis-web-sitesi)
 
 **🏠 Tasvir uygulaması** · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
 
@@ -27,24 +27,24 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 
 > Bunlar Tasvir'de duran gerçek dokümanları açar — kayıt gerekmiyor. Hepsinin altında onu üreten **istemin tamamı** duruyor: kopyalarsın, kendine göre değiştirirsin, kendi versiyonunu üretirsin.
 
-> YKS'ye çalışıyorsan ayrı bir katalog var: 83 TYT/AYT konu anlatımı ve 44 test — **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)**, web hâli **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)**.
+> YKS'ye çalışıyorsan ayrı bir katalog var: 83 TYT/AYT konu anlatımı ve 44 test — **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)**, web hâli **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-tasvir-ai-tr-yks)**.
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1">
+      <a href="https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-matrix-evreni-rehberi">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2" width="260" alt="Matrix Evreni Rehberi"/>
       </a>
       <br/><strong>Matrix Evreni</strong><br/><sub>🎬 Film &amp; Oyun</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1">
+      <a href="https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-inception-zihnin-mimarisi">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df" width="260" alt="Inception: Zihnin Mimarisi"/>
       </a>
       <br/><strong>Inception</strong><br/><sub>🎬 Film &amp; Oyun</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1">
+      <a href="https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-tarkan-diskografisi">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464" width="260" alt="Tarkan Diskografisi"/>
       </a>
       <br/><strong>Tarkan Diskografisi</strong><br/><sub>🎵 Müzik</sub>
@@ -52,19 +52,19 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1">
+      <a href="https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-ilk-cag-medeniyetleri">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9" width="260" alt="İlk Çağ Medeniyetleri"/>
       </a>
       <br/><strong>İlk Çağ Medeniyetleri</strong><br/><sub>📜 Tarih</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1">
+      <a href="https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-dunya-nin-hareketleri-ve-iklim">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52" width="260" alt="Dünya'nın Hareketleri ve İklim"/>
       </a>
       <br/><strong>Dünya ve İklim</strong><br/><sub>🌍 Coğrafya</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1">
+      <a href="https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-ayt-matematik-turev">
         <img src="https://srv.tasvir.ai/rest/tasvir-noauth/v1/store/previews/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7" width="260" alt="AYT Matematik Türev"/>
       </a>
       <br/><strong>Türev</strong><br/><sub>📐 Matematik</sub>
@@ -74,12 +74,12 @@ Ders notunu yükle ya da neye çalıştığını yaz; Tasvir uzun soluklu, görs
 
 | Doküman | Ne gösteriyor | Kategori |
 |---|---|---|
-| [Matrix Evreni Rehberi](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1) | Film zaman çizelgesi, karakter kartları, kırmızı hap / mavi hap karar diyagramı | 🎬 Film &amp; Oyun |
-| [Inception: Zihnin Mimarisi](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1) | Rüya katmanları, karakter ilişki haritası, zaman dilatasyonu grafiği | 🎬 Film &amp; Oyun |
-| [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1) | Albüm kartları, hit satış grafiği, konser haritası, dönemlerin görsel kimliği | 🎵 Müzik |
-| [İlk Çağ Medeniyetleri](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1) | Medeniyetler strateji oyunu uygarlıkları gibi | 📜 Tarih |
-| [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
-| [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1) | Anlık hız ve nabız değişimi üzerinden türev | 📐 Matematik |
+| [Matrix Evreni Rehberi](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-matrix-evreni-rehberi) | Film zaman çizelgesi, karakter kartları, kırmızı hap / mavi hap karar diyagramı | 🎬 Film &amp; Oyun |
+| [Inception: Zihnin Mimarisi](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-inception-zihnin-mimarisi) | Rüya katmanları, karakter ilişki haritası, zaman dilatasyonu grafiği | 🎬 Film &amp; Oyun |
+| [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-tarkan-diskografisi) | Albüm kartları, hit satış grafiği, konser haritası, dönemlerin görsel kimliği | 🎵 Müzik |
+| [İlk Çağ Medeniyetleri](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-ilk-cag-medeniyetleri) | Medeniyetler strateji oyunu uygarlıkları gibi | 📜 Tarih |
+| [Dünya'nın Hareketleri ve İklim](https://app.tasvir.ai/c/e7f177988dab2ae1910835bbaed030f91b6cc287b7629a58412e65c402017e52/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-dunya-nin-hareketleri-ve-iklim) | Astronot gözünden Dünya, iklim ve hareket diyagramları | 🌍 Coğrafya |
+| [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-turev) | Anlık hız ve nabız değişimi üzerinden türev | 📐 Matematik |
 
 Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 🔬 bilim, 🧒 çocuk kitabı ve 🌐 arayüz tasarımı da var — çünkü sadece ders notu üreten bir araca doküman üretici denmez.
 
@@ -89,42 +89,42 @@ Altı kategori, altı doküman, tek motor. Aşağıdaki katalogda 🗺️ gezi, 
 <br/>
 
 **🎬 Film & Oyun**
-- [Matrix Evreni Rehberi](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1)
-- [Inception: Zihnin Mimarisi](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1)
-- [Half-Life: Evren ve Hikâye](https://app.tasvir.ai/c/20b80d4849f42fd45c29e21428f94080b5682585f0eb7bd17ecfadb1b370dabb/1)
+- [Matrix Evreni Rehberi](https://app.tasvir.ai/c/c2e7f526d16f9d0ecc0cddd66367466c92a91530407281d2223e34f5e60eddc2/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-matrix-evreni-rehberi)
+- [Inception: Zihnin Mimarisi](https://app.tasvir.ai/c/56eb70636ffbe34864ee3c0d48d5a1416ffbadc66e79bf1188f28ad5189ff1df/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-inception-zihnin-mimarisi)
+- [Half-Life: Evren ve Hikâye](https://app.tasvir.ai/c/20b80d4849f42fd45c29e21428f94080b5682585f0eb7bd17ecfadb1b370dabb/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-half-life-evren-ve-hikaye)
 
 **📜 Tarih**
-- [İlk Çağ Medeniyetleri](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1)
-- [Türkiye Cumhuriyeti'nin 100. Yılı](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1)
-- [Osmanlı Kuruluş ve Yükselme](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1)
+- [İlk Çağ Medeniyetleri](https://app.tasvir.ai/c/07865bab510da2656a8863b1b923c55a0137954e2195005e8003ada7bfff5cb9/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-ilk-cag-medeniyetleri)
+- [Türkiye Cumhuriyeti'nin 100. Yılı](https://app.tasvir.ai/c/8a1058a7d5a872da0d1fd281ebdebbeb7ef52f06c717de37510ddae58515c4cd/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-turkiye-cumhuriyeti-nin-100-yili)
+- [Osmanlı Kuruluş ve Yükselme](https://app.tasvir.ai/c/604c48d51acc2fa1c00447d29305dd9da0369d3ffe0f89fb369980695058058f/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-osmanli-kurulus-ve-yukselme)
 
 **🗺️ Gezi**
-- [7 Günde İstanbul Keşif Rehberi](https://app.tasvir.ai/c/3a676c1e7b96ba81b9e9d483c2249870c583a6322c4b72a5b46fac1a7c563eb5/1)
+- [7 Günde İstanbul Keşif Rehberi](https://app.tasvir.ai/c/3a676c1e7b96ba81b9e9d483c2249870c583a6322c4b72a5b46fac1a7c563eb5/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-7-gunde-istanbul-kesif-rehberi)
 
 **🔬 Bilim & Teknik**
-- [Kara Delikler ve Hawking Işıması](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1)
-- [Kalıtım](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1)
+- [Kara Delikler ve Hawking Işıması](https://app.tasvir.ai/c/89a3e3aed9ac06da6acb5359251a30831e720f8ec636148f9a164c3fb0fbad7a/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-kara-delikler-ve-hawking-isimasi)
+- [Kalıtım](https://app.tasvir.ai/c/6a107f12487ecb5b8f3a1653ae4185b83e42f6a50f2c7015d241018691b04e7b/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-kalitim)
 
 **📐 Matematik**
-- [Parabol](https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1)
-- [Analitik Geometri](https://app.tasvir.ai/c/0006f3d6fb06b6d213d4ffc71c37b604e419303c99cbbdf08ce87bdab818a793/1)
-- [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1)
+- [Parabol](https://app.tasvir.ai/c/035a4c9eabe82649825bbf842c59e72e11403e81e1dbe20251839c14594fa15e/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-parabol)
+- [Analitik Geometri](https://app.tasvir.ai/c/0006f3d6fb06b6d213d4ffc71c37b604e419303c99cbbdf08ce87bdab818a793/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-analitik-geometri)
+- [Türev](https://app.tasvir.ai/c/9ac571a480afefadde8e70e6c9baee2be68c697f35979de3648c965b881068c7/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-turev)
 
 **🧒 Çocuk & Aile**
-- [İnsan Vücudu Atlası](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1)
-- [Dinozorlar Dünyasında Bir Gün](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1)
-- [Alfabe Öğrenme Kitabı](https://app.tasvir.ai/c/ee763b495a5646b323e5663aa6049e5ede20ec85cf9238a581c0ee434c6fdfd8/1)
-- [Uzayda Bir Gün](https://app.tasvir.ai/c/cf963268f50ea352e5c975a5d4e8c3f99bc3e00f251a811a8c09f77d35c73063/1)
+- [İnsan Vücudu Atlası](https://app.tasvir.ai/c/926ca252fb1d704ebced55dd96cf64e3c86db5e6b967fef4930f3d6931daae50/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-insan-vucudu-atlasi)
+- [Dinozorlar Dünyasında Bir Gün](https://app.tasvir.ai/c/751c87bc165d544786e5c7145c27c395f4064a1a6bbfc7a9791c78946cfdeea6/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-dinozorlar-dunyasinda-bir-gun)
+- [Alfabe Öğrenme Kitabı](https://app.tasvir.ai/c/ee763b495a5646b323e5663aa6049e5ede20ec85cf9238a581c0ee434c6fdfd8/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-alfabe-ogrenme-kitabi)
+- [Uzayda Bir Gün](https://app.tasvir.ai/c/cf963268f50ea352e5c975a5d4e8c3f99bc3e00f251a811a8c09f77d35c73063/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-uzayda-bir-gun)
 
 **🧬 Biyoloji**
-- [Hücre Bölünmeleri](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1)
+- [Hücre Bölünmeleri](https://app.tasvir.ai/c/bf9c88ca0e900d304aec9baad47cebfb26dcb993e48d3b3c2458dda470b6968e/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-hucre-bolunmeleri)
 
 **🎵 Müzik**
-- [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1)
+- [Tarkan Diskografisi](https://app.tasvir.ai/c/f51b68568ea57d6ebacc2e5562e441904ec9b77af7d7988ce19ef0f61670a464/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-tarkan-diskografisi)
 
 **🌐 Web / Uygulama Tasarımı**
-- [Online Kurs Platformu (10 ekran)](https://app.tasvir.ai/c/85c38000d0162f60352df723e91271ae4d5bab60e2c1c996a5c2def1c29e0940/1)
-- [Canlı Yayın Platformu Arayüzü (25 ekran)](https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1)
+- [Online Kurs Platformu (10 ekran)](https://app.tasvir.ai/c/85c38000d0162f60352df723e91271ae4d5bab60e2c1c996a5c2def1c29e0940/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-online-kurs-platformu-10-ekran)
+- [Canlı Yayın Platformu Arayüzü (25 ekran)](https://app.tasvir.ai/c/8c58ee95cc671e33f40d1fd3dbfc94b4fb19cb46344286ab3c9c19acb3fc1782/1?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=canli-ornekler-canli-yayin-platformu-arayuzu-25-ekran)
 
 </details>
 
@@ -189,7 +189,7 @@ Senin yazdığın tek şey birinci adımdaki cümle.
 
 Kurulum yok, API anahtarı yok, kredi kartı yok.
 
-1. **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=quickstart&lang=tr)** adresini aç ve kayıt ol.
+1. **[app.tasvir.ai](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=quickstart&lang=tr&utm_campaign=tasvir-tr)** adresini aç ve kayıt ol.
 2. Bir PDF, Word dosyası ya da görsel bırak — veya sadece bir konu yaz: `Türev — üniversite seviyesi, 20 sayfa`.
 3. Dokümanı oku, beğenmediğin sayfayı yeniden üret, sonra A4/A3 dışa aktar ya da linkini paylaş.
 
@@ -250,7 +250,7 @@ Sana uyan yoldan bir doküman oluştur:
 | **Girişimciler & ekipler** | Raporlar, lansman planları, şirket içi dokümanlar, panolar |
 | **Herkes** | Herhangi bir konuyu yapılandırılmış bir dokümana çevir — tasarım bilgisi gerekmez |
 
-Okul, dershane ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=institutions)** — toplu kredi, Excel ile üye aktarımı, roller. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/).
+Okul, dershane ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://app.tasvir.ai/signup?next=/organization&src=github&utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=institutions)** — toplu kredi, Excel ile üye aktarımı, roller. [Nasıl çalışır](https://tasvir.ai/tr/kurumlar/?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=kimin-icin-nasil-calisir).
 
 ---
 
@@ -258,7 +258,7 @@ Okul, dershane ya da ekip mi yönetiyorsun? **[Kurum hesabı aç →](https://ap
 
 TYT ve AYT için ayrı bir katalog var: 11 dersten **83 konu anlatımı ve 44 test**, hepsi kayıtsız açılıyor. Aynı konu on farklı öğrencinin dünyasından anlatıldı — üslü sayılar Minecraft oynayan Emre'ye bit ve bellek üzerinden, hareket ve kuvvet Formula 1 izleyen Kaan'a pist üzerinden.
 
-- Katalog: **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/)**
+- Katalog: **[tasvir.ai/tr/yks](https://tasvir.ai/tr/yks/?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=yks-ye-calisiyorsan-tasvir-ai-tr-yks)**
 - İstemlerin tamamı: **[Tasvir-YKS-Hazirlik](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik)**
 
 ---
@@ -267,7 +267,7 @@ TYT ve AYT için ayrı bir katalog var: 11 dersten **83 konu anlatımı ve 44 te
 
 ### Aklındaki dokümanı bir cümleyle anlat, gerisini Tasvir yapsın.
 
-[![Tasvir'i ücretsiz dene](https://img.shields.io/badge/🚀_İlk_dokümanını_ücretsiz_oluştur-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=bottom&lang=tr)
+[![Tasvir'i ücretsiz dene](https://img.shields.io/badge/🚀_İlk_dokümanını_ücretsiz_oluştur-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=bottom&lang=tr&utm_campaign=tasvir-tr)
 
 **Üret. Oku. Öğren. Paylaş. Yazdır.**
 
