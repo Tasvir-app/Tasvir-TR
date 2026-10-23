@@ -8,6 +8,8 @@
 [![90 saniyelik demoyu izle](https://img.shields.io/badge/▶_90_saniyelik_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=o5D5XRN3bdo)
 [![Web sitesi](https://img.shields.io/badge/tasvir.ai/tr-0b0b12?style=for-the-badge)](https://tasvir.ai/tr/?utm_source=github&utm_medium=readme&utm_campaign=tasvir-tr&utm_content=yapay-zeka-ile-calis-web-sitesi)
 
+<a href="https://apps.apple.com/app/id6787442701?mt=8&ct=github-tasvir-tr-top"><img src="assets/badges/app-store-en.svg" alt="App Store'dan indirin" height="40"/></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ulug.tasvir&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dtasvir-tr%26utm_content%3Dstore-top"><img src="assets/badges/google-play-en.svg" alt="Google Play'den alın" height="40"/></a>
+
 **🏠 Tasvir uygulaması** · [🎨 Canvas Modu](https://github.com/Tasvir-app/Tasvir-Canvas-Mode-TR) · [🖌️ Web → Figma](https://github.com/Tasvir-app/Tasvir-Web-Designs-to-Figma) · [📚 YKS Hazırlık](https://github.com/Tasvir-app/Tasvir-YKS-Hazirlik) · [🇬🇧 English](https://github.com/Tasvir-app/Tasvir)
 
 </div>
@@ -268,6 +270,8 @@ TYT ve AYT için ayrı bir katalog var: 11 dersten **83 konu anlatımı ve 44 te
 ### Aklındaki dokümanı bir cümleyle anlat, gerisini Tasvir yapsın.
 
 [![Tasvir'i ücretsiz dene](https://img.shields.io/badge/🚀_İlk_dokümanını_ücretsiz_oluştur-2563EB?style=for-the-badge)](https://app.tasvir.ai?src=github&utm_source=github&utm_medium=readme&utm_content=bottom&lang=tr&utm_campaign=tasvir-tr)
+
+<a href="https://apps.apple.com/app/id6787442701?mt=8&ct=github-tasvir-tr-bottom"><img src="assets/badges/app-store-en.svg" alt="App Store'dan indirin" height="40"/></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.ulug.tasvir&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dtasvir-tr%26utm_content%3Dstore-bottom"><img src="assets/badges/google-play-en.svg" alt="Google Play'den alın" height="40"/></a>
 
 **Üret. Oku. Öğren. Paylaş. Yazdır.**
 
